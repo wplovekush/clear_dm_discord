@@ -1,4 +1,4 @@
-#clear! by wp#5814.
+#clear! by s4turn#0001.
 
 
 #---CONFIG---
